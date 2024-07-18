@@ -1,0 +1,6 @@
+﻿  Dog.cpp
+  Kennel.cpp
+  Kennel_Main.cpp
+  Generating Code...
+Kennel.obj : error LNK2001: unresolved external symbol "private: static int Kennel::kennelCount" (?kennelCount@Kennel@@0HA)
+C:\comp_sci2\Coin_Flipper\Kennel\x64\Debug\Kennel.exe : fatal error LNK1120: 1 unresolved externals
